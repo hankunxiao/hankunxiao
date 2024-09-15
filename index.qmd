@@ -1,7 +1,5 @@
 ---
-title: "hankun_website_2024_09_09"
+title: "Hankun"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Welcome to Hankun's Website. Please check the [about](about.html) page to know more about me.

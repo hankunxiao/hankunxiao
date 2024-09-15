@@ -2,4 +2,8 @@
 title: "About"
 ---
 
-About this site
+Hello everyone! I'm Hankun (Krabs), a student in the Master of Data Science program at the University of British Columbia. You can find me on [LinkedIn](https://www.linkedin.com/in/hankun-xiao-0b57401ba/).
+
+大家好，我是汉坤。我是英属哥伦比亚大学数据科学硕士项目的学生。你可以在[领英](https://www.linkedin.com/in/hankun-xiao-0b57401ba/)找到我。
+
+مرحباً جميعاً! أنا سامي. طالب في برنامج ماجستير علوم البيانات في جامعة كولومبيا البريطانية. يمكنكم العثور عليّ في [LinkedIn](https://www.linkedin.com/in/hankun-xiao-0b57401ba/).

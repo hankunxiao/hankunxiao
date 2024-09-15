@@ -2,8 +2,15 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "hankun_website_2024_09_09",
+    "title": "Hankun",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Welcome to Hankun’s Website. Please check the about page to know more about me."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Hello everyone! I’m Hankun (Krabs), a student in the Master of Data Science program at the University of British Columbia. You can find me on LinkedIn.\n大家好，我是汉坤。我是英属哥伦比亚大学数据科学硕士项目的学生。你可以在领英找到我。\nمرحباً جميعاً! أنا سامي. طالب في برنامج ماجستير علوم البيانات في جامعة كولومبيا البريطانية. يمكنكم العثور عليّ في LinkedIn."
   }
 ]
