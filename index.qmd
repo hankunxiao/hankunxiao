@@ -2,4 +2,4 @@
 title: "Hankun"
 ---
 
-Welcome to Hankun's Website. Please check the [about](about.html) page to know more about me.
+Welcome to Hankun's Website. Please check the [about](about.html) page to know more about me. Thanks.
